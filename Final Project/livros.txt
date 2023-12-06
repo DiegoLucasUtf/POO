@@ -1,0 +1,16 @@
+id,titulo,autor,editora,genero;
+1;1984;George Orwell;Principis;Ficção Científica Social;
+2;Percy Jackson e o Ladrão de Raios;Rick Riordan;Intrínseca;Fantasia;
+3;O Senhor dos Aneis: A Sociedade do Anel;J.R.R Tolkien;HarperCollins;Fantasia;
+4;O Senhor dos Aneis: As Duas Torres;J.R.R Tolkien;HarperCollins;Fantasia;
+5;O Senhor dos Aneis: O Retorno do Rei;J.R.R Tolkien;HarperCollins;Fantasia;
+6;O Nome do Vento;Patrick Rothfuss;Editora Arqueiro;Fantasia;
+7;Duna;Frank Herbert;Editora Aleph;Ficção Científica;
+8;Messias de Duna;Frank Herbert;Editora Aleph;Ficção Científica;
+9;Filhos de Duna;Frank Herbert;Editora Aleph;Ficção Científica;
+10;Imperador Deus de Duna;Frank Herbert;Editora Aleph;Ficção Científica;
+11;Hereges de Duna;Frank Herbert;Editora Aleph;Ficção Científica;
+12;Herdeiras de Duna;Frank Herbert;Editora Aleph;Ficção Científica;
+13;O Príncipe Cruel;Holly Black;Galera;Fantasia;
+14;O Rei Perverso;Holly Black;Galera;Fantasia;
+15;A Rainha do Nada;Holly Black;Galera;Fantasia;

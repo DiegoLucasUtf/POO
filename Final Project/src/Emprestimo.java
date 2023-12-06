@@ -268,7 +268,7 @@ public class Emprestimo {
 
             } else {
 
-                JOptionPane.showMessageDialog ( null, "Resposta Inválida" );
+                JOptionPane.showMessageDialog ( null, "Operação Cancelanda" );
                 return;
 
             }

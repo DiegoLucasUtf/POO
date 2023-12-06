@@ -2,7 +2,7 @@ public class Admin extends Pessoa {
 
     public Admin ( ) {
 
-        super( 0, "", 0, "" );
+        super( 0, "",  "", "" );
         this.email = "";
 
     }

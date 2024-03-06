@@ -136,7 +136,7 @@ class PaginaGerenciarCliente extends JFrame {
 
         super("Gerenciamento de Clientes");
 
-        setSize(200, 100);
+        setSize(300, 100);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setVisible(true);

@@ -47,11 +47,11 @@ public class janelo extends JFrame implements ActionListener {
         livros = livro.carregaLivros( "livros.txt" );
 
         if (e.getSource() == usuario) {
-            levausuario usu = new levausuario(); // Instancie a classe LevaUsuario aqui
+            levausuario usu = new levausuario(); 
         }
 
         if (e.getSource() == admin) {
-            LevaAdmin adi = new LevaAdmin(); // Instancie a classe LevaAdmin aqui
+            LevaAdmin adi = new LevaAdmin(); 
         }
         if (e.getSource() == buttonBuscarLivros) {
             Operacoes op_0 = new Operacoes();
